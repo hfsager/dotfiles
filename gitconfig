@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sophia.sager@hellofresh.com
+	name = sophia sager
